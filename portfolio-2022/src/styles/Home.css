@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Outfit:wght@400;700&family=Teko&display=swap');
+
+body {
+    margin: 40px;
+}
+
+.presentation {
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 2rem;
+}
+
+.presentation img {
+    height: 150px;
+}
+
+.about a {
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 1.4rem;
+    text-decoration: none;
+    color: black;
+}
+
+.about a:hover {
+    background-color: #A5BECC;
+}
