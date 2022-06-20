@@ -1,31 +1,29 @@
 import React from "react";
-import '../styles/Navigation.css'
-import { NavLink } from "react-router-dom";
+import "../styles/Navigation.css";
 
 const Navigation = () => {
   return (
-    <div>
+    <div id="navigation">
       <nav>
-        <ul>
-          <li>
-            <NavLink
-              to="/"
-              className={(nav) => (nav.isActive ? "nav-active" : "")}
-            >
-              Home
-            </NavLink>
-          </li>
-          <li>
-            <NavLink
-              to="/projects"
-              className={(nav) => (nav.isActive ? "nav-active" : "")}
-            >
-              Projects
-            </NavLink>
-          </li>
-        </ul>
+        <li>
+          <a href="#home">Home</a>
+        </li>
+        <li>
+          <a href="#experiences">Experiences</a>
+        </li>
+        <li>
+          <a href="#projects">Projets</a>
+        </li>
+        <li>
+          <a href="#skills">Compétences</a>
+        </li>
+        <li>
+          <a href="#contact">Contact</a>
+        </li>
       </nav>
     </div>
+
+    // faire une hr width 80% noir sous la nav et eventuellement chaque section
   );
 };
 

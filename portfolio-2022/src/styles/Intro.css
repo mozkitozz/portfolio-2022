@@ -1,0 +1,33 @@
+#home {
+  padding: 5%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-color: #202327;
+}
+#presentation {
+  margin: 2%;
+}
+#presentation img {
+  width: 15rem;
+  border-radius: 50%;
+}
+
+#presentation p {
+  font-size: 1.5rem;
+  margin: 3%;
+  color: white;
+}
+
+#presentation a {
+  color: white;
+  font-size: 0.9rem;
+  padding: 15px;
+  border: 1px solid white;
+  text-decoration: none;
+}
+
+#presentation a:hover {
+  color: black;
+  background-color: white;
+}

@@ -1,0 +1,22 @@
+#skills {
+  margin: 2% auto;
+}
+#skills img,
+svg {
+  height: 20px;
+}
+
+#skills #cards {
+  margin: 5% 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#card {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container p {
+  display: flex;
+}

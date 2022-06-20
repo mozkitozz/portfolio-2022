@@ -1,25 +1,6 @@
 #footer {
     bottom: 0;
-    color: white;
-    position: fixed;
-    bottom: 0px;
-    left: 0px;
-    right: 0px;
-    margin-bottom: 30px;
-}
-
-#footer li {
-  list-style: none;
-  font-size: 15px;
-  font-family: 'Courier New', Courier, monospace;
-  margin-top: 5px;
-}
-
-img {
-    height: 25px;
-}
-
-p {
-  text-align: center;
-  color: black;
+    font-weight: bold;
+    text-align: center;
+    padding: 1.2%;
 }

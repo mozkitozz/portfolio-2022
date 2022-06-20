@@ -1,0 +1,31 @@
+
+
+#divcardsexp {
+  width: 80%;
+
+  margin: 5% 0;
+}
+
+.cardexp {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: justify;
+  margin: 5% 15%;
+} 
+
+p {
+  font-style: bold;
+}
+
+.cardexp img {
+  height: 50px;
+  width: auto;
+  /* margin: 50px; */
+} 
+
+/*
+h2 {
+  text-align: center;
+  text-decoration: underline;
+  text-underline-position: under;
+} */
