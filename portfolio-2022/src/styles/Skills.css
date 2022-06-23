@@ -33,12 +33,14 @@ svg {
 
 @media screen and (max-width: 992px) {
   #skills .container {
+    width: auto;
     margin: 0 auto;
   }
 }
 
 @media screen and (max-width: 500px) {
   #skills .container {
+    width: auto;
     margin: 0 auto;
   }
 }
