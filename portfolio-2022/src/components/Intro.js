@@ -10,13 +10,13 @@ const Home = () => {
         <img src={profil} alt="profil" />
         <br />
         <br />
-        <p style={{ fontFamily: "Allan" }}>
+        <p>
           Etudiant en développement web <br /> à Web@cadémie by Epitech Bordeaux
         </p>
         <br />
         <p>
           <br />
-          <a href="../assets/CV.pdf" download>
+          <a style={{fontFamily: 'Geneva'}} href="../assets/CV.pdf" download>
             Mon CV
           </a>
         </p>

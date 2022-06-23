@@ -25,6 +25,7 @@ const Experience = () => {
             </p>
           </div>
         </div>
+        <hr />
         <div className="cardexp">
           <div>
             <img src={davelopweb} alt="davelopweb" />
@@ -40,6 +41,7 @@ const Experience = () => {
             </p>
           </div>
         </div>
+        <hr />
         <div className="cardexp">
           <div>
             <img src={uniscite} alt="uniscite" />
@@ -53,6 +55,7 @@ const Experience = () => {
             <p>• Déplacements à domicile pour problèmes techniques</p>
           </div>
         </div>
+        <hr />
         <div className="cardexp">
           <div>
             <img src={lbp} alt="lbp" />

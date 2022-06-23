@@ -11,6 +11,7 @@ import mysql from "../assets/dev/mysql.svg";
 import mongodb from "../assets/dev/mongodb.svg";
 import git from "../assets/dev/git.svg";
 import github from "../assets/dev/github.svg";
+import php from "../assets/dev/php.svg"
 
 const Skills = () => {
   return (
@@ -20,7 +21,7 @@ const Skills = () => {
         <div class="card">
           <div class="container">
             <h4>
-              <b>Langages</b>
+              <b>Languages</b>
             </h4>
             <p>
               HTML
@@ -28,6 +29,10 @@ const Skills = () => {
             </p>
             <p>
               CSS <img src={css} alt="css" />
+            </p>
+            <p>
+              PHP
+              <img src={php} alt="php" />
             </p>
             <p>
               JavaScript <img src={js} alt="js" />

@@ -18,5 +18,11 @@ p {
 .cardexp img {
   height: 50px;
   width: auto;
-  /* margin: 50px; */
+  margin: 50px;
+}
+
+hr {
+  margin: 0 auto;
+  width: 40%;
+  color: rgb(233, 227, 227);
 }

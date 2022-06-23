@@ -20,13 +20,14 @@ const Projects = () => {
             </h4>
             <p>texte</p>
             <div id="buttons">
-              <a href="" class="button link" target="_blank">
+              <a href="/#" class="button link" target="_blank" rel="noopener noreferrer">
                 Link
               </a>
               <a
                 href="https://github.com/EpitechWebAcademiePromo2023/W-WEB-502-BDX-2-1-Portfolio-mateo.mons"
                 class="button code"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 Code
               </a>
@@ -43,10 +44,10 @@ const Projects = () => {
             </h4>
             <p>texte</p>
             <div id="buttons">
-              <a href="" class="button link" target="_blank">
+              <a href="/#" class="button link" target="_blank" rel="noopener noreferrer">
                 Link
               </a>
-              <a href="" class="button code" target="_blank">
+              <a href="/#" class="button code" target="_blank" rel="noopener noreferrer">
                 Code
               </a>
             </div>
@@ -63,10 +64,10 @@ const Projects = () => {
             </h4>
             <p>texte</p>
             <div id="buttons">
-              <a href="" class="button link" target="_blank">
+              <a href="/#" class="button link" target="_blank" rel="noopener noreferrer">
                 Link
               </a>
-              <a href="" class="button code" target="_blank">
+              <a href="/#" class="button code" target="_blank" rel="noopener noreferrer">
                 Code
               </a>
             </div>
@@ -80,10 +81,10 @@ const Projects = () => {
             </h4>
             <p>texte</p>
             <div id="buttons">
-              <a href="" class="button link" target="_blank">
+              <a href="/#" class="button link" target="_blank">
                 Link
               </a>
-              <a href="" class="button code" target="_blank">
+              <a href="/#" class="button code" target="_blank">
                 Code
               </a>
             </div>
