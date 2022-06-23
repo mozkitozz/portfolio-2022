@@ -21,10 +21,11 @@
 
 #presentation a {
   color: white;
-  font-size: 0.9rem;
+  font-size: smaller;
   padding: 15px;
   border: 1px solid white;
   text-decoration: none;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
 #presentation a:hover {

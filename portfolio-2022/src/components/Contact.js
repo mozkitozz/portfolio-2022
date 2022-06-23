@@ -5,30 +5,19 @@ import illustr from "../assets/dev/contact.webp";
 const Contact = () => {
   return (
     <div id="contact">
-      <h2 style={{ color: "white" }}>Contact</h2>
+      <h2>Contact</h2>
       <div id="bas">
         <div id="illustr">
-          <img src={illustr} alt="" />
+          <img src={illustr} alt="illustr" />
         </div>
         <div class="container">
           <form action="action_page.php">
             <label for="fname">E-mail</label>
-            <input
-              type="text"
-              id="fname"
-              name="firstname"
-              placeholder="Email"
-            />
+            <input type="text" id="fname" name="firstname" />
             <label for="lname">Sujet</label>
-            <input type="text" id="lname" name="lastname" placeholder="Sujet" />
-
+            <input type="text" id="lname" name="lastname" />
             <label for="subject">Message</label>
-            <textarea
-              id="subject"
-              name="subject"
-              placeholder="Message"
-            ></textarea>
-
+            <textarea id="subject" name="subject"></textarea>
             <input type="submit" value="Envoyer" />
           </form>
         </div>

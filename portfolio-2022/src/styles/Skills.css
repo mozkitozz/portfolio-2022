@@ -1,5 +1,5 @@
 #skills {
-  margin: 2% auto;
+  margin: 10% auto;
 }
 #skills img,
 svg {
@@ -17,6 +17,14 @@ svg {
   flex-wrap: wrap;
 }
 
-.container p {
-  display: flex;
+@media screen and (max-width: 992px) {
+  #skills .container {
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  #skills .container {
+    margin: 0 auto;
+  }
 }

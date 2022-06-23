@@ -9,21 +9,19 @@ const Navigation = () => {
           <a href="#home">Home</a>
         </li>
         <li>
-          <a href="#experiences">Experiences</a>
-        </li>
-        <li>
           <a href="#projects">Projets</a>
         </li>
         <li>
           <a href="#skills">Compétences</a>
         </li>
         <li>
+          <a href="#experiences">Experiences</a>
+        </li>
+        <li>
           <a href="#contact">Contact</a>
         </li>
       </nav>
     </div>
-
-    // faire une hr width 80% noir sous la nav et eventuellement chaque section
   );
 };
 
