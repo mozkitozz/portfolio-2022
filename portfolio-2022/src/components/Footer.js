@@ -20,7 +20,7 @@ const Footer = () => {
           </li>
           <li>
             <a
-              href="https://github.com/mozkitozz"
+              href="https://github.com/mozkitozz/"
               target="_blank"
               rel="noreferrer"
             >
@@ -29,13 +29,12 @@ const Footer = () => {
           </li>
           <li>
             <a
-              href="mailto:mateo.mons@epitech.eu?subject=test &body=ecrire ici"
+              href=""
               rel="noreferrer"
             >
               Email
             </a>
           </li>
-          <li>Phone : 06 52 97 23 30</li>
         </ul>
       </div>
     </div>
